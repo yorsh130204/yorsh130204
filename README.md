@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jorge-alberto-valenzuela-castañon-a1a3b3281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge alberto valenzuela castañon" height="30" width="40" /></a>
-</p>
-<a href="mailto:jorge130204@gmail.com" target="_blank"><img align="center" 
+<a href="https://www.linkedin.com/in/jorge-alberto-valenzuela-castañon-a1a3b3281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge alberto valenzuela castañon" height="30" width="40" /></a><a href="mailto:jorge130204@gmail.com" target="_blank"><img align="center" 
 src="https://cdn-icons-png.flaticon.com/512/6244/6244710.png" alt="email" height="30" width="40" /></a>
+</p>
+
 <p>📫 jorge130204@gmail.com</p>
