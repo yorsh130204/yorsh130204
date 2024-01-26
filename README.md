@@ -3,7 +3,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="text-decoration: none;">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -69,6 +69,6 @@
 </a>
 </p>
 
-<h2>
+<h3>
   📫 jorge130204@gmail.com
-</h2>
+</h3>
