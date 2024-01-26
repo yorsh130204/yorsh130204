@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jorge Valenzuela</h1>
+<h1 align="center">Greetings! I'm Jorge Valenzuela</h1>
 <h3 align="center">Multiplatform Software Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -8,4 +8,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jorge-alberto-valenzuela-castañon-a1a3b3281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge alberto valenzuela castañon" height="30" width="40" /></a>
 </p>
-<p> 📫 **jorge130204@gmail.com** </p>
+<p>📫 Email: jorge130204@gmail.com</p>
