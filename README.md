@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jorge-alberto-valenzuela-castañon-a1a3b3281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge alberto valenzuela castañon" height="30" width="40" /></a><a href="mailto:jorge130204@gmail.com" target="_blank"><img align="center" 
-src="https://static.vecteezy.com/system/resources/previews/022/648/084/non_2x/email-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" alt="email" height="30" width="30" /></a>
+src="https://www.svgrepo.com/show/61043/empty-email.svg" alt="email" height="30" width="30" /></a>
 </p>
 
 <p>📫 jorge130204@gmail.com</p>
