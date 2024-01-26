@@ -1,4 +1,3 @@
-# Jorge-Valenzuela
 <h1 align="center">Hi 👋, I'm Jorge Valenzuela</h1>
 <h3 align="center">Multiplatform Software Developer</h3>
 
@@ -15,3 +14,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yorsh130204&show_icons=true&locale=en&layout=compact" alt="yorsh130204" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yorsh130204&" alt="yorsh130204" /></p>
+
