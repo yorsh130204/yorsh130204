@@ -9,6 +9,6 @@
 <a href="https://www.linkedin.com/in/jorge-alberto-valenzuela-castañon-a1a3b3281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge alberto valenzuela castañon" height="30" width="40" /></a>
 </p>
 
-<p style="font-size: 30px;">
+<h3 style="font-size: 30px;">
   📫 [jorge130204@gmail.com](mailto:jorge130204@gmail.com)
-</p>
+</h3>
