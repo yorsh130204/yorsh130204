@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jorge-alberto-valenzuela-castañon-a1a3b3281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge alberto valenzuela castañon" height="30" width="40" /></a><a href="mailto:jorge130204@gmail.com" target="_blank"><img align="center" 
-src="https://www.svgrepo.com/show/61043/empty-email.svg" alt="email" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/jorge-alberto-valenzuela-castañon-a1a3b3281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge alberto valenzuela castañon" height="30" width="40" /></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><a href="mailto:jorge130204@gmail.com" target="_blank"><img align="center" 
+src="https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-email-material-design-512.png" alt="email" height="30" width="30" /></a>
 </p>
 
 <p>📫 jorge130204@gmail.com</p>
