@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Technical Degree in Programming</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<div align="center"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer nofollow" style="text-decoration: none;">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 </a>&nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer nofollow"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> 
-</p>
+</div>
 
 <h3 align="left">Get in touch:</h3>
 <p align="left">
@@ -72,3 +72,4 @@
 <h3>
   📫 jorge130204@gmail.com
 </h3>
+
