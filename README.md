@@ -1,4 +1,4 @@
-<h1 align="center">Greetings! I'm Jorge Valenzuela</h1>
+<h1 align="center">Hi! I'm Jorge Valenzuela</h1>
 <h3 align="center">Software Developer | Technical Degree in Programming</h3>
 
 <h3 align="left">Languages and Tools:</h3>
