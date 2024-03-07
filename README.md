@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I'm Jorge Alberto Valenzuela Castañon, a passionate technology enthusiast based in Chihuahua, Mexico. I'm currently 19 years old and pursuing my studies in multiplatform software development at UTCH.
+Hello! 👋 I'm Jorge Alberto Valenzuela Castañon, a passionate technology enthusiast based in Chihuahua, Mexico. I'm currently 20 years old and pursuing my studies in multiplatform software development at UTCH.
 
 
 ## 🌐 Socials:
