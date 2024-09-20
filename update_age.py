@@ -18,7 +18,7 @@ if now.month == 2 and now.day == 13:
     # Buscar la línea donde está la edad y actualizarla
     for i in range(len(data)):
         if 'I\'m currently' in data[i]:
-            data[i] = f'I\'m currently {new_age} years old and pursuing my studies in multiplatform software development at UTCH.\n'
+            data[i] = f'I\'m currently {new_age} years old and pursuing my studies in multiplatform software development.\n'
             break
 
     # Escribir los cambios de vuelta al archivo
