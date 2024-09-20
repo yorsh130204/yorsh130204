@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! 👋 I'm Jorge Alberto Valenzuela Castañón, a full-stack software developer. I'm currently 20 years old and pursuing my studies in multiplatform software development.</p>
+<p align="left">Hello! 👋 I'm Jorge Alberto Valenzuela Castañón, a full-stack software developer. I hold a Higher Technical Degree in Multiplatform Software Development, and I am currently studying Engineering in Software Development and Management. I'm 20 years old and passionate about creating innovative software solutions.</p>
 
 ###
 
