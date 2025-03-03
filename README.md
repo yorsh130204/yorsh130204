@@ -91,5 +91,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<figure><embed src="https://wakatime.com/share/@yorsh130204/19718b8a-4862-4286-b4ef-195f8721ae44.svg"></embed></figure>
-
