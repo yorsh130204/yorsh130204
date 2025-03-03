@@ -79,10 +79,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yorsh130204&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
 </div>
-<div align="center">
-  <img src="https://wakatime.com/share/@yorsh130204/19718b8a-4862-4286-b4ef-195f8721ae44.svg" alt="Wakatime Stats" />
-  <figcaption>📊 Coding Activity from Wakatime</figcaption>
-</div>
 
 ###
 
