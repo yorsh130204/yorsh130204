@@ -1,0 +1,22 @@
+name: WakaTime Stats
+
+on:
+  schedule:
+    # Se actualiza automáticamente todos los días a la medianoche
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Este comando nos permite ejecutarlo manualmente cuando queramos
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: false # Oculta el título predeterminado
+          TIME_RANGE: all_time # Usa el endpoint que me pediste (todo tu historial)
+          SHOW_TIME: false # Oculta las horas exactas (para mostrar solo el % y la barra)
+          SHOW_TOTAL: false # Oculta la sumatoria de horas
+          BLOCKS: █ # Estilo de la barra de progreso
