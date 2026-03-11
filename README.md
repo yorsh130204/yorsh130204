@@ -1,22 +1,20 @@
 <h1 align="center">💫 Jorge Valenzuela | Software Engineer</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jorge130204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:jorge130204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/jorge130204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jorge130204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <strong>Transforming complex business logic into scalable digital ecosystems.</strong>
-</p>
+<p align="center"><strong>Architecting Scalable Systems & High-Performance Digital Ecosystems</strong></p>
 
 ---
 
 ### 🚀 Engineering Profile
-I'm a 22-year-old Engineer dedicated to architectural integrity, process automation, and high-performance system delivery.
+I'm a 22-year-old Engineer focused on architectural integrity, process automation, and bridging the gap between hardware and software.
 
-* **Core Philosophy:** I am a **tech-agnostic problem solver**. I approach software through its architecture, viewing languages as tools to achieve a specific goal. 
-* **Full Lifecycle Mastery:** From engineering secure backends and complex **Database Design (SQL Server/MySQL)** to deploying **containerized infrastructures** and modern interfaces.
-* **The "Do-It-All" Mindset:** I master the necessary technology to deliver the best possible solution—whether it's **Multi-Factor Authentication (2FA)**, server automation via **SSH**, or IoT integration with **ESP32**.
+* **Tech-Agnostic Mindset:** I view languages as tools. I master the necessary stack to solve the problem—from **IoT with ESP32** to **Cloud Infrastructure**.
+* **System Architecture:** Specialized in building secure **RESTful APIs** and complex **Database Design (SQL Server/MySQL)**.
+* **DevOps & Security:** Experience deploying containerized environments with **Docker**, server management via **SSH**, and implementing **2FA security**.
 
 ---
 
@@ -27,29 +25,27 @@ I'm a 22-year-old Engineer dedicated to architectural integrity, process automat
   <img src="https://skillicons.dev/icons?i=nextjs,react,docker,linux,cloudflare,github" height="40" style="vertical-align: middle;" />
 </p>
 
-> **Core Capabilities:** Scalable API Architecture • Advanced Data Modeling (ORM/SQL) • Multi-platform Integration (Web/Mobile/Game) • DevOps & Security-first Implementations.
+> **Key Capabilities:** Scalable API Architecture • Advanced Data Modeling • IoT Integration • Multi-platform Ecosystems (Web/Mobile/Game).
 
 ---
 
 ### 💼 Professional Impact
 
-#### 🌟 [UMBRAL GAMES](https://umbral-games.vercel.app) 
-> **Multi-Platform Architectural Integration**
-> Designed and deployed a synchronized ecosystem: **Next.js** platform, **Flutter** app, and a **Unity** game. Engineered for unified data flow and state management across distinct environments.
+#### 🌟 [UMBRAL GAMES](https://umbral-games.vercel.app)
+> **Multi-Platform Integration** | Next.js • Flutter • Unity
+> Designed a synchronized ecosystem where data flows seamlessly between a high-performance web platform, a mobile app, and an interactive game environment.
 
 #### 🧩 SERENIAPP
-> **Full-Stack IoT Solution | React Native • Next.js • Arduino**
-> Engineered an end-to-end ecosystem for ASD safety, integrating a **React Native** mobile app and a **Next.js** dashboard with hardware sensors based on **ESP32 (Arduino)**. Focused on real-time data synchronization and secure monitoring for sensitive environments.
+> **Full-Stack IoT Solution** | React Native • Next.js • ESP32 (Arduino)
+> Engineered an end-to-end monitoring system for ASD safety. Integrated hardware sensors with a mobile app and web dashboard for real-time data tracking.
 
 #### 🏛️ Enterprise System Transformation
-> **Architectural Design • High-Scale Efficiency**
-> Orchestrated the digital transformation for **high-traffic systems (1,000+ users)**. Eliminated administrative bottlenecks by implementing **WhatsApp-based 2FA** and centralizing legacy paper-based workflows into secure architectures.
+> **Process Automation** | PHP • Laravel • Docker • 2FA
+> Orchestrated the digital transformation for **1,000+ users**, replacing legacy paper-based workflows with secure architectures and WhatsApp-based authentication.
 
 ---
 
-### 📊 Activity & Stats
-*Automated tracking of my coding journey.*
-
+### 📊 Coding Activity
 ---
 
 <p align="center">
