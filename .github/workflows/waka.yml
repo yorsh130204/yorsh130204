@@ -15,14 +15,24 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Validation Check (Debug)
+      - name: Pre-Flight Checks
         run: |
-          if grep -q "" README.md && grep -q "" README.md; then
-            echo "✅ Etiquetas encontradas correctamente en el README."
+          echo "🔍 Iniciando validaciones..."
+          
+          # Check Etiquetas
+          if grep -q "START_SECTION:waka" README.md && grep -q "END_SECTION:waka" README.md; then
+            echo "✅ Etiquetas de sección encontradas."
           else
-            echo "❌ ERROR: No se encontraron las etiquetas o "
-            echo "Asegúrate de que no tengan espacios extras y que el SECTION_NAME sea 'waka'."
+            echo "❌ ERROR: No se encontraron las etiquetas y "
             exit 1
+          fi
+
+          # Check Secret
+          if [ -z "${{ secrets.WAKATIME_API_KEY }}" ]; then
+            echo "❌ ERROR: El secret WAKATIME_API_KEY está vacío o no existe."
+            exit 1
+          else
+            echo "✅ Secret detectado correctamente."
           fi
 
       - name: Update Waka Stats
@@ -38,3 +48,12 @@ jobs:
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
           BLOCKS: █
+
+      - name: Post-Run Report
+        run: |
+          git status
+          if git diff --name-only | grep -q "README.md"; then
+            echo "🚀 ÉXITO: El README fue actualizado con nuevas estadísticas."
+          else
+            echo "⚠️ ADVERTENCIA: El README no cambió. Esto puede ser porque WakaTime no devolvió datos nuevos o el bot no encontró diferencias."
+          fi
