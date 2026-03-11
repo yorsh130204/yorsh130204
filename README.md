@@ -44,8 +44,10 @@ I'm a 22-year-old Engineer focused on architectural integrity, process automatio
 > Orchestrated the digital transformation for **1,000+ users**, replacing legacy paper-based workflows with secure architectures and WhatsApp-based authentication.
 
 ---
-
 ### 📊 Coding Activity
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
+<!--START_SECTION: --> <!--END_SECTION: -->
 ---
 
 <p align="center">
