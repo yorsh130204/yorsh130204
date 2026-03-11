@@ -45,9 +45,9 @@ I'm a 22-year-old Engineer focused on architectural integrity, process automatio
 
 ---
 ### 📊 Coding Activity
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
 
-<!--START_SECTION: --> <!--END_SECTION: -->
+<!--END_SECTION:waka-->
 ---
 
 <p align="center">
