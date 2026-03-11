@@ -2,26 +2,31 @@ name: Update Age
 
 on:
   schedule:
-    - cron: '0 0 13 2 *'  # Se ejecutará todos los 13 de febrero a la medianoche UTC
+    # Se ejecuta automáticamente cada 13 de febrero a la medianoche (UTC)
+    - cron: '0 0 13 2 *'
+  workflow_dispatch: # Te permite correrlo con un botón para probarlo
 
 jobs:
-  update:
+  update-age:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-      
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
+        uses: actions/checkout@v3
 
-      - name: Run update_age.py
-        run: python update_age.py
-
-      - name: Commit and push if changes
+      - name: Calculate and Update Age
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@users.noreply.github.com'
+          BIRTH_YEAR=2004
+          CURRENT_YEAR=$(date +%Y)
+          AGE=$((CURRENT_YEAR - BIRTH_YEAR))
+          
+          # Busca el texto en el README y reemplaza el número de la edad
+          sed -i "s/I'm a [0-9]*-year-old/I'm a ${AGE}-year-old/g" README.md
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update age" && git push
+          # Si hubo un cambio, hace el commit. Si ya estaba actualizado, no hace nada.
+          git commit -m "🎉 Update age to $AGE" || echo "No changes to commit"
+          git push
