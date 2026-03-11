@@ -16,15 +16,11 @@
   <strong>"Software that scales, systems that breathe, and code that lasts."</strong>
 </p>
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/yorsh130204" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🚀 Engineering Profile
 
-I'm a **22-year-old Full Stack Engineer** specialized in **Enterprise Architecture** and **Hardware-Software Integration**. Currently transforming municipal-scale infrastructure at the **DSPM**, replacing legacy systems with secure, containerized environments.
+I'm a **Software Engineer** specialized in **Enterprise Architecture** and **Hardware-Software Integration**. Currently finishing my degree in **Software Development and Management** while transforming municipal-scale infrastructure at the **DSPM**.
 
 * 🧠 **Tech-Agnostic Philosophy:** I master the stack that solves the problem—from **IoT firmware** to **Cloud Infrastructure**.
 * 🏛️ **System Integrity:** Expert in secure **RESTful APIs** and complex **Database Design (SQL Server/MySQL)**.
@@ -35,19 +31,7 @@ I'm a **22-year-old Full Stack Engineer** specialized in **Enterprise Architectu
 ### 🛠️ Technical Toolbox
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" style="filter: brightness(0) invert(1);" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" style="filter: brightness(0) invert(1);" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="mssql" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="cloudflare" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" style="filter: brightness(0) invert(1);" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nextjs,react,php,laravel,mysql,mssql,docker,linux,cloudflare,github&theme=dark" />
 </p>
 
 ---
