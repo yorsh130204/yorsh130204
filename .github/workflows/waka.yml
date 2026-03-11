@@ -2,7 +2,6 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # Se actualiza a la medianoche (UTC)
     - cron: '0 0 * * *'
   workflow_dispatch: 
 
@@ -11,11 +10,21 @@ jobs:
     name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Esto es VITAL en 2026 para permitir la escritura
+      contents: write
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4 # Versión actualizada
-      
+        uses: actions/checkout@v4
+
+      - name: Validation Check (Debug)
+        run: |
+          if grep -q "" README.md && grep -q "" README.md; then
+            echo "✅ Etiquetas encontradas correctamente en el README."
+          else
+            echo "❌ ERROR: No se encontraron las etiquetas o "
+            echo "Asegúrate de que no tengan espacios extras y que el SECTION_NAME sea 'waka'."
+            exit 1
+          fi
+
       - name: Update Waka Stats
         uses: athul/waka-readme@master
         with:
