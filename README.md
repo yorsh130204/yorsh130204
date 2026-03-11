@@ -57,8 +57,6 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=figma" height="46" alt="figma logo"  />
   <img width="4" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="46" alt="canva logo"  />
-  <img width="4" />
   <img src="https://skillicons.dev/icons?i=arduino" height="46" alt="arduino logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=postman" height="46" alt="postman logo"  />
