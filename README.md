@@ -47,6 +47,22 @@ I'm a 22-year-old Engineer focused on architectural integrity, process automatio
 ### 📊 Coding Activity
 <!--START_SECTION:waka-->
 
+```txt
+From: 20 August 2024 - To: 11 March 2026
+
+Total Time: 1,074 hrs 14 mins
+
+TypeScript                 498 hrs 8 mins        ███████████▒░░░░░░░░░░░░░   45.84 %
+PHP                        385 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.47 %
+JavaScript                 65 hrs 4 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+JSON                       19 hrs 30 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Bash                       19 hrs 11 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Docker                     14 hrs 47 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Python                     14 hrs 2 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+HTML                       13 hrs 16 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Other                      12 hrs 34 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
