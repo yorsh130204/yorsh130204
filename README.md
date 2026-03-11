@@ -1,47 +1,75 @@
-<h1 align="center">💫 Jorge Valenzuela | Software Engineer</h1>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001524,100:0077B5&height=240&section=header&text=Jorge%20Alberto%20Valenzuela&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20System%20Architect&descAlignY=60&descSize=22&fontColor=FFFFFF" alt="Jorge Alberto Valenzuela" />
+</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jorge130204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:jorge130204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/JorgeValenzuela13" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:jorge130204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center"><strong>Architecting Scalable Systems & High-Performance Digital Ecosystems</strong></p>
+<p align="center">
+  <strong>"Software that scales, systems that breathe, and code that lasts."</strong>
+</p>
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/yorsh130204" alt="Profile Views" />
+</p>
 
 ---
 
 ### 🚀 Engineering Profile
-I'm a 22-year-old Engineer focused on architectural integrity, process automation, and bridging the gap between hardware and software.
 
-* **Tech-Agnostic Mindset:** I view languages as tools. I master the necessary stack to solve the problem—from **IoT with ESP32** to **Cloud Infrastructure**.
-* **System Architecture:** Specialized in building secure **RESTful APIs** and complex **Database Design (SQL Server/MySQL)**.
-* **DevOps & Security:** Experience deploying containerized environments with **Docker**, server management via **SSH**, and implementing **2FA security**.
+I'm a **22-year-old Full Stack Engineer** specialized in **Enterprise Architecture** and **Hardware-Software Integration**. Currently transforming municipal-scale infrastructure at the **DSPM**, replacing legacy systems with secure, containerized environments.
+
+* 🧠 **Tech-Agnostic Philosophy:** I master the stack that solves the problem—from **IoT firmware** to **Cloud Infrastructure**.
+* 🏛️ **System Integrity:** Expert in secure **RESTful APIs** and complex **Database Design (SQL Server/MySQL)**.
+* 🛡️ **DevOps Culture:** Proactive implementation of **Docker**, **2FA Security**, and automated workflows.
 
 ---
 
 ### 🛠️ Technical Toolbox
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,php,laravel,mysql" height="40" style="vertical-align: middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" style="vertical-align: middle; margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs,react,docker,linux,cloudflare,github" height="40" style="vertical-align: middle;" />
-</p>
 
-> **Key Capabilities:** Scalable API Architecture • Advanced Data Modeling • IoT Integration • Multi-platform Ecosystems (Web/Mobile/Game).
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" style="filter: brightness(0) invert(1);" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" style="filter: brightness(0) invert(1);" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="mssql" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="cloudflare" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" style="filter: brightness(0) invert(1);" />
+</p>
 
 ---
 
 ### 💼 Professional Impact
 
-#### 🌟 [UMBRAL GAMES](https://umbral-games.vercel.app)
-> **Multi-Platform Integration** | Next.js • Flutter • Unity
-> Designed a synchronized ecosystem where data flows seamlessly between a high-performance web platform, a mobile app, and an interactive game environment.
+#### 🏛️ Municipal Enterprise Transformation (DSPM)
+> **Stack:** *PHP (Laravel/CakePHP) • Docker • WhatsApp 2FA*
+* Orchestrated the digital migration for **1,000+ public security officers**.
+* Eliminated 100% of legacy paper workflows through a secure web ecosystem.
+* Designed a high-availability architecture with containerized deployment.
 
-#### 🧩 SERENIAPP
-> **Full-Stack IoT Solution** | React Native • Next.js • ESP32 (Arduino)
-> Engineered an end-to-end monitoring system for ASD safety. Integrated hardware sensors with a mobile app and web dashboard for real-time data tracking.
+#### 🎮 Umbral Games Ecosystem
+> **Stack:** *Next.js • Flutter • Unity*
+* Built a unified source of truth serving Web, Mobile, and Game clients.
+* Optimized API performance to handle real-time data synchronization across platforms.
+* 🔗 [umbral-games.vercel.app](https://umbral-games.vercel.app)
 
-#### 🏛️ Enterprise System Transformation
-> **Process Automation** | PHP • Laravel • Docker • 2FA
-> Orchestrated the digital transformation for **1,000+ users**, replacing legacy paper-based workflows with secure architectures and WhatsApp-based authentication.
+#### 🧩 SereniApp IoT Solution
+> **Stack:** *React Native • ESP32 • Arduino*
+* Engineered a full-stack safety monitor for ASD.
+* Desarrollé el firmware (C++) e integración cloud para rastreo de sensores en tiempo real.
 
 ---
 
