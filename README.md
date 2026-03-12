@@ -13,8 +13,6 @@
   </a>
 </p>
 
-*“Software that scales, systems that breathe, and code that lasts.”*
-
 ---
 
 </div>
